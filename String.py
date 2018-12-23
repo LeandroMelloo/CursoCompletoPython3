@@ -66,7 +66,8 @@ print(s.split(','))
 
 # 1. As strings são mutáveis?
 
-# As strings não são mutáveis! (o que significa que você não pode usar indexação para alterar elementos individuais de uma string)
+# As strings são imutáveis!
+# (o que significa que você não pode usar indexação para alterar elementos individuais de uma string)
 
 # 2. Como faço para criar comentários no meu código?
 
