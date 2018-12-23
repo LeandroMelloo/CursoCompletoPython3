@@ -63,3 +63,11 @@ print(s.split())
 
 #objetos tem seu metodo especifico s.split() => dividi minha string em 2 objetos.
 print(s.split(','))
+
+# 1. As strings são mutáveis?
+
+# As strings não são mutáveis! (o que significa que você não pode usar indexação para alterar elementos individuais de uma string)
+
+# 2. Como faço para criar comentários no meu código?
+
+# Você pode usar o hashtag # para criar comentários em seu código
