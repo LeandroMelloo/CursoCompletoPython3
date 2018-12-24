@@ -23,13 +23,13 @@ print(a * b)
 print(a / b)
 
 # declarando uma variavel receita = 1000.
-receita = 1000
+receita = 100
 
 # printando a variavel receita.
 print(receita)
 
 # declarando uma variavel margem_de_lucro = 0.10.
-margem_de_lucro = 10
+margem_de_lucro = 0.88
 
 # printando a variavel margem_de_lucro.
 print(margem_de_lucro)
