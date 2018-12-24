@@ -66,3 +66,6 @@ print(my_dict.items())
 
 # Os dicionários são mapeamentos e não mantêm uma ordem! Se você quer as capacidades de um dicionário, 
 # mas você gostaria de fazer um ordenamento também, confira a aula de dicionário ordenado mais tarde no curso!
+
+d1 = {'k1': [1,2,3]}
+print(d1['k1'][1])
